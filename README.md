@@ -109,15 +109,31 @@ flowchart TD
 
 ---
 
-## 📷 Project Output
+## 🔧 Hardware Components Used
 
 <p align="center">
-  <img src="Images/Breadboard.png" alt="Breadboard Setup" width="420"/>
-  &nbsp;&nbsp;
-  <img src="Images/LCD_Screen.png" alt="LCD Display Output" width="420"/>
+  <img src="Images/Arduino.png" alt="Arduino Uno" width="180"/>
+  &nbsp;
+  <img src="Images/Breadboard.png" alt="Breadboard" width="180"/>
+  &nbsp;
+  <img src="Images/DHT11_Sensor.png" alt="DHT11 Sensor" width="180"/>
 </p>
 
-<p align="center"><i>Left: full breadboard circuit setup. Right: live sensor readings on the 16×2 I2C LCD.</i></p>
+<p align="center">
+  <img src="Images/I2C_Module.png" alt="I2C LCD Module" width="180"/>
+  &nbsp;
+  <img src="Images/Jumper_Wires.png" alt="Jumper Wires" width="180"/>
+  &nbsp;
+  <img src="Images/LCD_Screen.png" alt="16x2 LCD Display" width="180"/>
+</p>
+
+<p align="center">
+  <i>
+    Hardware components used to build the IoT Weather Monitoring System.
+    The project utilizes an Arduino Uno microcontroller, DHT11 temperature & humidity sensor,
+    16×2 LCD with I2C interface, breadboard, and jumper wires for real-time environmental monitoring.
+  </i>
+</p>
 
 ---
 
